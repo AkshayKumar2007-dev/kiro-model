@@ -1,0 +1,17 @@
+# Editor / tooling workspace metadata
+.freebuff/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+</｜｜DSML｜｜ parameter>
